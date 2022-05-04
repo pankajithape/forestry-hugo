@@ -2,6 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+googleAnalytics = "UA-227859219-1"
 
 [menu]
     [[menu.main]]
