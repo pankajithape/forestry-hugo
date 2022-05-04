@@ -1,0 +1,17 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-PaperMod'
+
+[menu]
+    [[menu.main]]
+        identifier = "intro"
+        name = "intro"
+        url = "/intro/"
+        weight = 0
+    [[menu.main]]
+        identifier = "second"
+        name = "second"
+        url = "/second/"
+        weight = 1
+  
