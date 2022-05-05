@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hugo-classic'
+theme = 'ananke'
 googleAnalytics = "UA-227859219-1"
 
 [menu]
