@@ -1,7 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://phenomenal-quokka-4693fb.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "hugo-PaperMod"
+theme = "hugo-theme-terminal"
 googleAnalytics = "UA-227859219-1"
 
 [menu]
